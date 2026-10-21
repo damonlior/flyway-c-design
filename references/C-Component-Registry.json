@@ -1,0 +1,2656 @@
+{
+  "sourceFileKey": "TKHzEYvXwFS10wSNHK7EGC",
+  "verificationDate": "2026-10-21",
+  "pages": [
+    {
+      "page": "     ✅ 颜色 Color",
+      "id": "0:1",
+      "componentSets": 0,
+      "masters": 0,
+      "assets": []
+    },
+    {
+      "page": "     ✅ 间距 Spacing",
+      "id": "13192:4329",
+      "componentSets": 0,
+      "masters": 0,
+      "assets": []
+    },
+    {
+      "page": "     ✅ 圆角 Radius",
+      "id": "13192:1416",
+      "componentSets": 0,
+      "masters": 0,
+      "assets": []
+    },
+    {
+      "page": "     ✅ 字体 Font",
+      "id": "2:3",
+      "componentSets": 0,
+      "masters": 0,
+      "assets": []
+    },
+    {
+      "page": "     ✅ 阴影 Shadow",
+      "id": "14:25",
+      "componentSets": 0,
+      "masters": 0,
+      "assets": []
+    },
+    {
+      "page": "     ✅ 层级 Z-index",
+      "id": "17035:23088",
+      "componentSets": 0,
+      "masters": 0,
+      "assets": []
+    },
+    {
+      "page": "     ✅ 宽度尺寸 WidthSize",
+      "id": "13203:13336",
+      "componentSets": 0,
+      "masters": 0,
+      "assets": []
+    },
+    {
+      "page": "     ✅ 栅格 Grid",
+      "id": "17036:23771",
+      "componentSets": 0,
+      "masters": 0,
+      "assets": []
+    },
+    {
+      "page": "     ✅ 布局 Layout",
+      "id": "19208:35",
+      "componentSets": 0,
+      "masters": 0,
+      "assets": []
+    },
+    {
+      "page": "     ✅ 00-02 业务图标",
+      "id": "15015:1162",
+      "componentSets": 4,
+      "masters": 159,
+      "assets": [
+        {
+          "name": "Payment Method",
+          "key": "efdbfad5dd79d774f514fed71b21108091019d1f",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "Contact",
+          "key": "f16536e030e823ccb3386d1c3f92b92a5eb1eec0",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "National Flag",
+          "key": "4773380ab0768c000d6384f9de35bf0ec4d84e56",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "Bank",
+          "key": "6fbd8e93e8abbcd808c5f5bce2c1cefac01e8c76",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 00-01 基础图标",
+      "id": "15015:1161",
+      "componentSets": 5,
+      "masters": 173,
+      "assets": [
+        {
+          "name": "_dot",
+          "key": "0c662f6606116ebaa169cc1ca474c4834770dc5f",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "_iconGrid",
+          "key": "e0bb93a28c680fc47be22d8635f0110d669aa2bb",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "_loading",
+          "key": "48c5f77c4c8c2bfbb3a297f8807324da5fb5930f",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "00 placeholder-outline",
+          "key": "8dad51a0b4de92d8744ce88401bb0706b7d3fdf6",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "loading-outline",
+          "key": "040f9b79e83205406da03b71ef142f911cacb39e",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "more-horizontal-outline",
+          "key": "7b1f24d96aba81c51b0e4a7cf87eba64830ffb5c",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "more-vertical-outline",
+          "key": "df2b15d750c69cb2e5e38d540c8824920a2dbefd",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "close-outline",
+          "key": "fef4a2369de3e1651b88138f3af00b10833cd70d",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "confirm-outline",
+          "key": "9ee5966a5f175a3af9326fb05b955bba2a54d6d4",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "chevron-left-outline",
+          "key": "e0ad43d107e531e9d16da06a3a6f4184c8b4e02c",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "chevron-right-outline",
+          "key": "647dbfed239bea3097f7e8be125aa3972de30083",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "chevron-up-outline",
+          "key": "6b39a08e82bbe33cb2cbf5807ab83c7d46b63acf",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "chevron-down-outline",
+          "key": "9b77758d018f233abaad20ea6c4db9ea1bffacec",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "double-chevron-left-outline",
+          "key": "4b1d8e8dee06e84c8becffab9e34534eac2345f3",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "double-chevron-right-outline",
+          "key": "d0787d7cd768387ddd25ce7799e82eee18dac7fa",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "double-chevron-up-outline",
+          "key": "5ad6aedc89aa16488689fc6f697cebf0f24ce538",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "double-chevron-down-outline",
+          "key": "f123e73813e64f3597fd2195264589e169159ffd",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "arrow-left-outline",
+          "key": "ecd3604bc764e99f258340463ec5f27719b8bb6d",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "arrow-right-outline",
+          "key": "1d00492adaa311ad570e91beba321a671340d595",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "arrow-up-outline",
+          "key": "8d8cad7d601adeda0d15bf54854b2f395d2cca1c",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "arrow-down-outline",
+          "key": "0258c9e5cad1d7bc4c1aed5a6342752b995cd424",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "arrow-right-up-outline",
+          "key": "49da8eea13432e22e040bfc61358b5815e54175f",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "convert-left-right-outline",
+          "key": "588f94d6749b131f7a28a7f9b6367809abdfc132",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "convert-up-down-outline",
+          "key": "5a394ffa45a68cbe51560c0904bcce0023caaac7",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "triangle-left-outline",
+          "key": "b828818ef98ee925d09a88e5066ea1b2ab678b62",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "triangle-down-outline",
+          "key": "906e2c06237ed728e62cb1d58c8fba4227cd8f78",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "triangle-up-outline",
+          "key": "c2b53840cf51a5f8f0559dc83fb8ba96aeb076f2",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "triangle-down-outline",
+          "key": "a6faf8b596bd0838e718d8ce23c817cd3c288e1b",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "add-outline",
+          "key": "0053b010b87600e3bb51b660c0196d4d1dd1662f",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "minus-outline",
+          "key": "a53a0bb8149acfc89d4354b5f22742f0798d5b6c",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "indent-outline",
+          "key": "f38566cf56866db15e7d7c7c3911bdc237dee702",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "collapse-outline",
+          "key": "6dded85fdd7762d64cee49a39ab1e5f0484a5aa5",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "clear-outline",
+          "key": "900aa11f6bfba417947b07cf5ccd9f4fdbca1774",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "clear-fill",
+          "key": "41034c29f37a88f21db1ec9fd84ab369a3743d70",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "info-outline",
+          "key": "5e09afe8526ff778c541e424431dbe25410ac5f8",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "tooltip-outline",
+          "key": "5a26c7978274cc2f9918d95da074adc94b073ee9",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "warning-outline",
+          "key": "1b24bc8136f82f96905b1db5a7c70e7f3d87990c",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "success-outline",
+          "key": "420789a570af39df1e0baaba3cbb9315fc4b3662",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "success-fill",
+          "key": "b229775aa78b13c50dc767a57627426fbd45e417",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "filter-outline",
+          "key": "172e01b0903f1f92c61c12eb40e69f89d91ca709",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "sort-up-outline",
+          "key": "3d811d845a055e8fcb241e28aeac56f7c9a281b7",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "sort-down-outline",
+          "key": "0be6c3e266154bcf5e5cc565bec9f9061c5b502e",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "reset-left-outline",
+          "key": "b6c201ddfd56e1f53cb27cc853089d9f45761caa",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "reset-right-outline",
+          "key": "5d3a5815735f5fafdbfe8e905cee3bbe1d3e261b",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "refresh-outline",
+          "key": "4bb73bf3469b0f3f1bb1ee467a72e1e80d8260bc",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "edit-outline",
+          "key": "ffc096bd5fdb49a2bcce641f2651c2324c92da8e",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "search-outline",
+          "key": "9c0cfbecf49011baa477ffabe33c940a6e77b921",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "delete-outline",
+          "key": "2491ec26151d4de193e43d419aa17abbf1137677",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "download-outline",
+          "key": "91fcf42a1dc7a90a19b81bcd79cbf093fd3cdb28",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "upload1-outline",
+          "key": "070a3bf87dc9f1d0073527ec508a43461654f555",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "copy-outline",
+          "key": "64de134274696f54c61d684f0830c7a2711114dc",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "menu-outline",
+          "key": "7cd8220146c3ab531a6671cad85a76af01d2ee22",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "show-outline",
+          "key": "e971570ce9469e486bc06b5ddb6a389b42b0ab1d",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "hide-outline",
+          "key": "466ed5e8d665a29fcfce8869e8789a6fd8282fc7",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "home-outline",
+          "key": "73fd24bba59c67681fb67298c0700d5ace90bbd2",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "transition-outline",
+          "key": "6beb1083b575734a9339c8cf74716200b2dfb557",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "payment-outline",
+          "key": "f5e86f6a1900b1d9d5f1df5206b3fd9662d683ff",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "money-bag-outline",
+          "key": "4c119520b513d22b85491c5b6053f45595558378",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "account-outline",
+          "key": "c69f71aff7f713909ae30d06173a3b9217a52fc8",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "company-outline",
+          "key": "23d604a495992aa8d7f7ddc07e09e01833fb33ed",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "company-fill",
+          "key": "2086b8e6e83af73b9f8cf3ccd7f21ed6cdd47f71",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "business-search-outline",
+          "key": "8ffd0629fa3330f679f34f0fc2568279d40b902c",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "user-outline",
+          "key": "9db17d0dd8a491a2228589bf990bac686a9e561f",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "user-flat-fill",
+          "key": "790678b6c3c87fe1a8e2ae4e11ce3c0f7775d67c",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "users-outline",
+          "key": "320c64a5ba2d5506967fb65c8b8d669d6b5c37d1",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "user-2-outline",
+          "key": "0cd02a20245d3be75e192c949964b44473173db8",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "store-outline",
+          "key": "076be1e5514dac7934571c0045b43fa4236ca9fc",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "store-checked-outline",
+          "key": "547428f956170ef3af40528f5bd3ea3071f9c22a",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "notification-outline",
+          "key": "c3e9be0cbbf1132ed12ac52ccb9b3b5595df617e",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "message-eos-fill",
+          "key": "f38538e20f49c825ee6ef126188d11b959b4ab87",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "global-outline",
+          "key": "ebc0d2ef18df531067125ef3c109fd475516840a",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "card-outline",
+          "key": "cf2600cc424b9cabd453e36457062cc39041b7a8",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "card-fill",
+          "key": "2336b9360662109b74444eccf0b05db1daa1c00c",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "bank-outline",
+          "key": "51e842fd878eb5a75cb9a6509178ccc0faabc848",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "bank-fill",
+          "key": "2875cfef72d64147dc5d0abd0691d92bfa5dcaa5",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "hand-coin-fill",
+          "key": "0b3a910f560ab34426416c47825376c6392768ae",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "hand-heart-arrow-down-line",
+          "key": "f2c9854dea17604fc41f217c03c14a7797f256e4",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "deposit-outline",
+          "key": "9a81e090543c45dc7315d4eb64d710fc29a42db5",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "pay-outline",
+          "key": "292bfce65b7f44ab21599827c5ef29bdb4064d3e",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "pay-fill",
+          "key": "2eb7a426ffa85294bc342cf9ac0bbbbc1c062ad9",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "pay-cny-circle-fill",
+          "key": "a72736fd0a5fc8de6f44b83cf9f98a4cbafe2e8a",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "collecting-setting-outline",
+          "key": "2d5a493608b7ca2ca680b9fdeccad75ef97938ab",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "repayment-outline",
+          "key": "38a1bd14e24847ac1ec2af63682b161b28136df4",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "repayment-fill",
+          "key": "4b8d8a255dd2625415d23fdaaa63a3e421ca757e",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "quota-fill",
+          "key": "d98cb6c9916269b4f16baaa36ff61a169b4e7764",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "copper-coin-fill",
+          "key": "97e8eaef86a103285bb368e8505a6b2b8cd5ffb0",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "pay-fill",
+          "key": "c0073db638512a0317cb52d1cec204f35de6df2d",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "exchangeRate-outline",
+          "key": "7ee85300626ad8964033781371dc4ef16ed5d6c2",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "dashboard-outline",
+          "key": "1b0216983e3bc613895cba73bf832a645e8bdd41",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "power-outline",
+          "key": "5f4cd04b02c43a811c590262847eafca66519c85",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "calendar-outline",
+          "key": "e79e33d6a738007225005ffc6aa4a8a92f560888",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "zoomIn-outline",
+          "key": "08da8e7e561de7651eaf69b086ff33b4c772602e",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "zoomOut-outline",
+          "key": "04194dc621b0c6f016d4e865e01e63f8d63cb05c",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "link 2-outline",
+          "key": "34aac267c68657a1435565d34f4ba4be97a3da76",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "link-outline",
+          "key": "b537ed74d4bdf4bfd9829ba7bcac6eb27969c6c1",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "setting-2-outline",
+          "key": "358176b42eba4868a74c153e24ff6618f7a03f61",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "setting-1-fill",
+          "key": "58e51340b65132c2fd679e8516e05387cd7090e5",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "setting-3-outline",
+          "key": "80e74840e1b0c4d05c3e7d3da79ef10c900fc823",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "check-double-outline",
+          "key": "0b7464cfa1065e805a2124949a708d309f6d5520",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "QRcode-outline",
+          "key": "b4a1b3fe706087c3ef4c2d0db83543cb7ff505d9",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "qr-scan-outline",
+          "key": "ca2a86757054669100e0010b87116bdfa43ae4e2",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "face-scan-outline",
+          "key": "06464164cb0fb620de988209609d8668cf71c07b",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "table-outline",
+          "key": "c8f2a1e663dd27bf7867903503e7d893d8d29e9b",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "transition-list-outline",
+          "key": "3962db71a6284d6f35c3476f4e38094cee03a10d",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "file-outline",
+          "key": "1fea6c6e8d100526bd1a4d9dcd7853c25a0a5f1c",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "file-fill",
+          "key": "82cad5ac02296b027b38848cd3fd8c5ef524211b",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "upload 3-outline",
+          "key": "27bf93e75eaecd840aca31467a2368fd0b52b742",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "upload 2-fill",
+          "key": "1bb20b17990889f3f58bd1a33f524d4d753321c7",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "file success-fill",
+          "key": "ab37b096c629972d57d7d6d70f054e23211e9dc9",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "image-outline",
+          "key": "3159dc6f26ae0addef47acccb23b894e96fe83dd",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "image-fill-outline",
+          "key": "8bae570c873d8ba2985dc17cde92c6d6f956d6fb",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "image-fill-add-outline",
+          "key": "438fd76a543e4dacd646b7083f049649a00d30cd",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "mail-fill",
+          "key": "4cfbdf61fc40202c8677833c8b343eff40462714",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "mail-outline",
+          "key": "626e60ec7e6b2c63f00db1e67a9f024774d421bb",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "safe-outline",
+          "key": "055b9bb597c6f76895b4f7d6461920138caa5ea7",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "safe-fill",
+          "key": "0475d280eeef9c7792ccbb436f9de562919a4ea9",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "lock-outline",
+          "key": "2eaec9232c8c64b0d8ce01a6ad22eb6fda563351",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "lock-fill",
+          "key": "f91c2a12043a727eb42a2c990e7c1578c500e192",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "mobile-outline",
+          "key": "d8ee76d99c3ae90e29e6dd376645899fae48a126",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "mobile-fill",
+          "key": "a36f2eecd40c8f625f9bdd42caf98f4b0ef596aa",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "mobile-SMS-outline",
+          "key": "a40b02254b1e3b5a34f6e8c35e99d8849b23e810",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "desktop-outline",
+          "key": "946e123832f81f74e2a36ff2a7b74d90daa2e588",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "contact-us-outline",
+          "key": "b7684bd1a9b0cbf375f29141d3287afe1bc45d1a",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "cart-outline",
+          "key": "47ff673cf14db7bffe02c4514151bd1f78a3de85",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "cart-fill",
+          "key": "45ab6151486f16bc3b8a17ed242c73d50f9708ad",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "external-link-outline",
+          "key": "47c8a79626f895596f354575cc3729f60040abf6",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "share-fill",
+          "key": "5606baca48e2ac8382bcbf8f995b0dce3069724d",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "shipping-outline",
+          "key": "d6d19cdf13f5bdc00ea09bf15dd7539826c5be72",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "shipping-fill",
+          "key": "89a9525af570def8d4fa9ce9832755afa6844682",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "package-fill",
+          "key": "7ab93b6fbcc300afa7aa60fe0c57319f0795d6f8",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "history-fill-outline",
+          "key": "a27a9cbbe17081b2a39ad4b0c6bd215695367bc3",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "time-outline",
+          "key": "f9f39fb3b27cb17850f35451d852230eba8e6725",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "time-fill",
+          "key": "b42ec956553e8486c3ba015d252d436e7f417481",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "highlight-fill",
+          "key": "a328c85425138be59e0950e0b4cbbc728bfc9470",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "flashlight-fill-outline",
+          "key": "1f85ef37aecdafe1b05fa43223b3c03ef0faabb4",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "camellinks-outline",
+          "key": "d486edfee609d8aafb78081f1d578046e76d55eb",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "camellinks-fill",
+          "key": "38cee42ec9409ee088fef49c976e6d0e868b12e3",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "organisation-outline",
+          "key": "ac2bf002689b5a26c37c31b803ed35b0ee3ea89a",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "search-detail-outline",
+          "key": "2ad79167d8bbdb1247f7073b56671a911cbee857",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "star-outline-fill",
+          "key": "e75149bdd354f1b66c3f7cb9a75ca6030093d78c",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "gift-outline",
+          "key": "23c711a4c487e948ac8208c27babc08f0cd03310",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "hourglass-outline",
+          "key": "7845336619c209d46519170a7712deee8f14a639",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "key-outline",
+          "key": "8b7cb57424211f8a9ab0e7713dc320c311b44bdf",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "globe-shipping1-outline",
+          "key": "56d0bfae946be53b24d5c713fbfdfe6e4f59b3bd",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "globe-shipping2-outline",
+          "key": "70e59281eed38f1188d8118afea94fdcf9e2cd91",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "good-outline",
+          "key": "7567d48a7e1288df3dc9dc30caf12299efe08c35",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "map-pin-outline",
+          "key": "7e7e229396bd14a87100f1f5773ce60eb07a9b83",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "pin-outline",
+          "key": "ce8875f4ea80ee24444e92ed46c13bb2e390dc12",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "full-screen-outline",
+          "key": "afb3013db15067390b4589847a19b283821154a2",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "full-screen-exit-outline",
+          "key": "7b45c2326a02a4822d443f4d4635c7e69575f901",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "coupon-fill",
+          "key": "b54b938f051a3d4e00bc372961a83d3202fe9378",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "tag-outline",
+          "key": "6dd602f7e988e4eec48d9705bbe83b9a7fc1c567",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "tag-fill",
+          "key": "ec4d70251ab99463fbb46e3dc1bb38ae997ff21d",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "rating",
+          "key": "aca92dd9bae854049459bdd64241e2de0e48d529",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "notification icon",
+          "key": "f2e860d10abe868f235869fab48057af8ec0087b",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 00-03 其他图标",
+      "id": "17284:66922",
+      "componentSets": 1,
+      "masters": 73,
+      "assets": [
+        {
+          "name": "tip #1",
+          "key": "f007d7a8edbff1c60b0b93bc2e7ffeebc44e7e12",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "tip #2",
+          "key": "735010a1f13a94b2d48f24115e8324ebc6cee953",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/31_边缘向右调整",
+          "key": "bff3f24fa08e96873d45548929a0f80659cac8df",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/30_边缘向左调整",
+          "key": "b43092cbbfebee2a533526cfed0ef7703df00b58",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/29_边缘向下调整",
+          "key": "168a8bd2e369a10b709a7f8554286358f850859b",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/28_边缘向上调整",
+          "key": "536efafc492d0128c62597c5da2b68594d900fc8",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/27_边缘水平调整",
+          "key": "d884f2db7826ffd75cb6c8e28595bc3f3ad30c5b",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/26_边缘垂直调整",
+          "key": "79a03e057a7faed231b3c6544d58ede8ffd7ac35",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/25_右对角调整",
+          "key": "7b7e66fb4943233311274c20dbbc4fcf1038bcd7",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/24_左对角调整",
+          "key": "13670fdda472a7c5e74ac938a7d19079a2a5b968",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/23_水平调整",
+          "key": "d70d4fbe81a9b95d6b72e0a92b6ae2d5890e5a41",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/22_垂直调整",
+          "key": "ff4cc2fe19093d4bbeae55be04ef6fd7adb420e8",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/21_右下",
+          "key": "4ed5c312fd2264a10f00cbf07824939a65235ec9",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/20_右上",
+          "key": "cd7539d27eb0074ed275737afaf4544f3c25068b",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/19_左下",
+          "key": "060e6127abf9d3b1748d210726e334f17fe574e8",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/18_左上",
+          "key": "b9057e69a9d4fa702b0d19002e489999af12b628",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/17_右",
+          "key": "113de7f70d931939f6de5220417ad50529b0e7fe",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/16_左",
+          "key": "1913f8b87e534fc03579a2303fe638ddf5c07c5e",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/15_下",
+          "key": "67c41b1ac7aa1efd63777f0328bc0ca73fe7c5a1",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/14_上",
+          "key": "b9035307a93047b3b615d4d564c3226fb1ef52a2",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/13_帮助",
+          "key": "7b234210ed89a896591b4cd614a2cb5f470cbe2b",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/12_十字",
+          "key": "57ba9eff7abc4c0cae60f166fd74922fb5257fe2",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/11_缩小",
+          "key": "2855b13bcabca19f31ea5cb5449acd84ae2a2091",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/10_放大",
+          "key": "741b4dc876f687c0d4949b70a1e835103c41c572",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/09_拖动",
+          "key": "7979c54df58392055a191855ebd11794a13eb8f5",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/32_可拖动",
+          "key": "909aaabde8c81ed21b4add9e554111589cb0de65",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/08_移动",
+          "key": "bd3567ff87f3bc5fdaa1ff9b93faa405a36a9e38",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/07_文本",
+          "key": "35bb6e867ba0046a94abf621e7ae27b92c16cd51",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/06_链接",
+          "key": "ba972639a79adc370af22aea72be27f4af7895cd",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/ 05_长加载",
+          "key": "519a855f22f4d5cc7e0105f8a2a9cd7909f35df5",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/ 04_不可用",
+          "key": "0a76981458b0ebe0fc93243d3e4b25621503b5f3",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/ 03_复制",
+          "key": "4b2537966ef2db915c78ab99e084d947d51dd759",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/ 02_加载",
+          "key": "de92d65bf7cc4e9acac46d22dbf99c929bbae826",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "01_鼠标/ 01_常规",
+          "key": "01c1875bf68f47b776123006501d7d7e5ad145a5",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "03_手势/19_语音识别",
+          "key": "36ddbfb3a0a1281c56ba13d49b361e1ace4cae5d",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "03_手势/18_人脸识别",
+          "key": "80f8e1e7a3282ed52533bbed29c3f85f98b6d727",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "03_手势/17_指纹识别",
+          "key": "b7c11f92827240df0a2ab7f9b110534cf1fb22c0",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "03_手势/16_按压下滑",
+          "key": "a9bc9dff066503b576e5863611d81fd5be027252",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "03_手势/15_按压上滑",
+          "key": "39c89e51ffe3cffa0ff71381247dcb2b64db6385",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "03_手势/14_按压右滑",
+          "key": "1e025569b306c4490f1c494c21f0e145c2bbc221",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "03_手势/13_按压左滑",
+          "key": "a7b7923511595b69611b8be612ebe529f6929c62",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "03_手势/12_上下竖滑",
+          "key": "ffad6f1a2995f5b54d7bd360fb5c58b1b6f15df0",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "03_手势/11_左右横滑",
+          "key": "e91cb4439742590515c1357fba803a1e0776a91d",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "03_手势/10_下滑",
+          "key": "f73a8e1091786047ceb5ba497b7540d1f4909444",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "03_手势/09_上滑",
+          "key": "2cf5da6b971e376dc2763b6e5566ed4d44ebdbb9",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "03_手势/08_右滑",
+          "key": "ae1d41ac7bec4e1b7557c3b76ce9c72e5ea6174c",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "03_手势/07_左滑",
+          "key": "c977514e697eb5d753325657300269018717ac77",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "03_手势/06_放大",
+          "key": "4cd7025c2b7fd4eb2c4b8b720e5f2e350369b64c",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "03_手势/05_缩小",
+          "key": "43b56b97621bce741756dac632fad2e9eb5c21b6",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "03_手势/04_拖拽",
+          "key": "2f7b4dc86aef1beda5453bd546235be1c6adcbd1",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "03_手势/03_长按",
+          "key": "32e2e46a48d6bc03e9ce224fa6d17eed9aac12d9",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "03_手势/02_双击",
+          "key": "0047b695afccb58240d32cebf308a7b843d904ad",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "03_手势/01_点击",
+          "key": "2e40feb11335382f658a48658613e05d3bee51b8",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "02_操作/19_语音识别",
+          "key": "b43493e1360322b73b65e4702e3220419f0e1106",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "02_操作/18_人脸识别",
+          "key": "5820115f4819c0436bebe5ad1027cf90a920f942",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "02_操作/17_指纹识别",
+          "key": "2b84fa5a44bbaff1ade00855436b9fe2d0e131ef",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "02_操作/16_按压下滑",
+          "key": "50f3571019dae337c8471b7e4ee3071da34aea75",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "02_操作/15_按压上滑",
+          "key": "5be2d39430369b0d13eeea43a5421778228b144c",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "02_操作/14_按压右滑",
+          "key": "6641270224abfb0097da3e7ac3add8bd0e6103c0",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "02_操作/13_按压左滑",
+          "key": "fb21bbb78e285339b9f4d708e1cf80d52746a807",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "02_操作/12_上下竖滑",
+          "key": "3cf01596ecd95f4e45508c4910e8298a9935c8b6",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "02_操作/11_左右横滑",
+          "key": "6a50f0a07515929bc278437e8609654c344e2a90",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "02_操作/10_下滑",
+          "key": "c532bc98c100f71a600a1e9d6f8d9cd55653c856",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "02_操作/09_上滑",
+          "key": "1e9b5756744a8e30a0e68a6c307e17b2b970d4fc",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "02_操作/08_右滑",
+          "key": "6e79055700f34f5bbee248f95aed9396e5ec2af2",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "02_操作/07_左滑",
+          "key": "63256b0f02524a7a0a306bc68d3baf7da243ff30",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "02_操作/06_放大",
+          "key": "9eeb43fad2b632dfacd08b5d0d10bace28ff388b",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "02_操作/05_缩小",
+          "key": "a1f53ced68274127d3728918ab3daa8c42a5b6f0",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "02_操作/03_长按",
+          "key": "d104009d03142160b5d886b03cfdf7f0c8521ef7",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "02_操作/02_双击",
+          "key": "be8660188da200b98a8cacaa437e940e0379ca3a",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "02_操作/01_点击",
+          "key": "f14ac4344c942727f222699ee0c25c2a83b2fd5e",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "文本光标",
+          "key": "af56bf264e6c62d45e3a0505cd0d8426342f573e",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 00-04 品牌logo",
+      "id": "17140:32966",
+      "componentSets": 3,
+      "masters": 17,
+      "assets": [
+        {
+          "name": "Flyway Logo",
+          "key": "5663518e8f8893d025d9cd62676d713609396b67",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "Flyway 组合Logo",
+          "key": "bc3589fa6a91669fc69967ec120ba529c3147723",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "FlyLink Logo",
+          "key": "1ff290b6c6a6323f31de35f8e2bb43cdfd97d579",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 01-01 按钮 Button",
+      "id": "48:532",
+      "componentSets": 2,
+      "masters": 126,
+      "assets": [
+        {
+          "name": "02_Button Group",
+          "key": "dc47025486bb79567dc09c1c3ce4fe0ae761b3e7",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "01_Button",
+          "key": "7348afa3681411400444ac08e5fb35a7d4f29413",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 01-02 链接 Link",
+      "id": "17184:61888",
+      "componentSets": 1,
+      "masters": 8,
+      "assets": [
+        {
+          "name": "Link",
+          "key": "b3822b5440cce7791cbc6103f44fc033005fcd9a",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 02-02 输入  Input",
+      "id": "34:1769",
+      "componentSets": 0,
+      "masters": 0,
+      "assets": []
+    },
+    {
+      "page": "     ✅ 02-03 单复选 Radio Checkbox",
+      "id": "17184:63619",
+      "componentSets": 2,
+      "masters": 18,
+      "assets": [
+        {
+          "name": "01_单复选项",
+          "key": "582dfed736a241a86f8cd3b37e34f86fabf9986b",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "02_单复选图标",
+          "key": "f0d37ddb2b7b3068ae1f94ae74c4b785e453c4ab",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 02-05 开关 Switch",
+      "id": "10579:6422",
+      "componentSets": 1,
+      "masters": 4,
+      "assets": [
+        {
+          "name": "Switch",
+          "key": "b7ef71fbc175971830b243eb0b0b1996a8a5a99c",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 02-06 选择 Select",
+      "id": "216:3719",
+      "componentSets": 4,
+      "masters": 18,
+      "assets": [
+        {
+          "name": "Cell/勾选角标",
+          "key": "e58c053f20bc83af56795f3c01c38d7c42effbbe",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "分段选择",
+          "key": "de0cf3e4585dd9021f3593429fd6203fc8a29758",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "Cell/按钮选项",
+          "key": "39118c7b13af8da929e965149b0651a3f73d0009",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "高优项选择",
+          "key": "87c739108368a45d5b314095198dda29b1b153c6",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 02-07 级联选择 Cascader",
+      "id": "11853:12657",
+      "componentSets": 0,
+      "masters": 0,
+      "assets": []
+    },
+    {
+      "page": "     ✅ 02-08 日期选择 DatePicker",
+      "id": "202:2642",
+      "componentSets": 3,
+      "masters": 17,
+      "assets": [
+        {
+          "name": "日历控件",
+          "key": "4f44e4cf5d45722e5949497f1e262b7a7dfd73cb",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "_item",
+          "key": "1d33a8346039e357d87f59b0489c30dd56b536fd",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "支持快捷选择的日期区间",
+          "key": "8bcfc549a32629519bea56ad536cc2a61b6964d9",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 02-09 评分 Rating",
+      "id": "314:4384",
+      "componentSets": 1,
+      "masters": 7,
+      "assets": [
+        {
+          "name": "评分",
+          "key": "a1c232ca6faa736feece259816bfa2f0a644d2e6",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 02-10 上传 Upload",
+      "id": "420:3901",
+      "componentSets": 6,
+      "masters": 40,
+      "assets": [
+        {
+          "name": "_文件类型图标",
+          "key": "575cec8646bfbca9ad54e96ac8f1dd7c087b5e81",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "_文件列表",
+          "key": "f986053eb3d71dcded27566d7bb5c59ca243b41a",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "02_拖拽样式",
+          "key": "2c6b62a9d7dd451607c89b079417585226e4a997",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "Cell/默认样式",
+          "key": "39fd690ef2366920b4f627389d4dbc74ca6c3b5d",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "01_表单样式（默认）",
+          "key": "2955961fddcab5d3b06142dab4e93b1a1a50e503",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "Cell/卡片样式（指定文件）",
+          "key": "b5492da44eae816abd828dd585063a8790d7f849",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     🕒 02-12 滑动条 Slider",
+      "id": "11121:1791",
+      "componentSets": 0,
+      "masters": 0,
+      "assets": []
+    },
+    {
+      "page": "     ✅ 03-01 窗口 Modal",
+      "id": "295:3908",
+      "componentSets": 6,
+      "masters": 17,
+      "assets": [
+        {
+          "name": "Cell / Bottom",
+          "key": "56450f2da501debd15f019459de6aea757f0fcee",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "_Body",
+          "key": "3d775278131b79051ebffb562f748e26be332637",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "Cell / Header",
+          "key": "1d99d75fc74b7c4a2ce15ea57e87bcc5bdab2ddb",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "Modal",
+          "key": "5aba1bf4e5ff94cce720881d7c8ff85dd7279ff2",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "_占位",
+          "key": "b2f851732f1534297eb1c6df457a59116f975ddf",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "Sheet（移动端）",
+          "key": "537c61143517d5579119708e3d7837d676495fe4",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 03-03 抽屉 Drawer",
+      "id": "10960:3935",
+      "componentSets": 1,
+      "masters": 3,
+      "assets": [
+        {
+          "name": "Drawer",
+          "key": "d057286ebd7a8e3b51facbdf37eef32e19fd699a",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 03-04 折叠 Collapsible",
+      "id": "11461:1339",
+      "componentSets": 1,
+      "masters": 2,
+      "assets": [
+        {
+          "name": "Collapse",
+          "key": "14c660b1611f5001d77ad87ae24f65b6b15b823a",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     🕒 03-05 卡片 Card",
+      "id": "295:3884",
+      "componentSets": 0,
+      "masters": 0,
+      "assets": []
+    },
+    {
+      "page": "     ✅ 04-01 对话窗 Dialog",
+      "id": "17184:65935",
+      "componentSets": 1,
+      "masters": 2,
+      "assets": [
+        {
+          "name": "Modal",
+          "key": "ea00c4e83c9c45f07065a8027626859591634ab8",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 04-02 气泡对话窗 Popconfirm",
+      "id": "17184:65936",
+      "componentSets": 1,
+      "masters": 8,
+      "assets": [
+        {
+          "name": "Popconfirm",
+          "key": "d5e2627443b3fef93945b993d278b9925eb64bc6",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 04-03 通知窗 Notification",
+      "id": "17184:65937",
+      "componentSets": 1,
+      "masters": 2,
+      "assets": [
+        {
+          "name": "Notification Card",
+          "key": "8d4f8fb091c2e0869c547fd92394ae776560582b",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 04-04 轻提示 Toast",
+      "id": "17078:5849",
+      "componentSets": 1,
+      "masters": 4,
+      "assets": [
+        {
+          "name": "Toast",
+          "key": "bdceacb0e542fdf4ba04573b691bb4e008413161",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 04-05 提示 Alert",
+      "id": "322:3230",
+      "componentSets": 1,
+      "masters": 8,
+      "assets": [
+        {
+          "name": "Alert",
+          "key": "5fa7325290a9f9a728fcbe860f0bedb0de7100fe",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 04-06 进度条 Progress",
+      "id": "314:4077",
+      "componentSets": 1,
+      "masters": 3,
+      "assets": [
+        {
+          "name": "加载进度条",
+          "key": "966dbbc71590342e253db77210c3a8da924ef14e",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 05-01 标签 Tag",
+      "id": "319:3047",
+      "componentSets": 2,
+      "masters": 20,
+      "assets": [
+        {
+          "name": "01_tag",
+          "key": "f24434e7b3c1addf297fb13382ee1942909d4c65",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "02_Tag Group",
+          "key": "4a51c9b1abccfe6aec3987fe80b44610ac441f8f",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 05-02 提示 Tooltip",
+      "id": "371:5289",
+      "componentSets": 1,
+      "masters": 4,
+      "assets": [
+        {
+          "name": "Tooltips",
+          "key": "ba9443aba6a63487bf85bd6b2e9954e81da563d6",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 05-03 徽标 Badge",
+      "id": "17184:65759",
+      "componentSets": 1,
+      "masters": 6,
+      "assets": [
+        {
+          "name": "徽标",
+          "key": "fb98cbd72ad65f1c69904523b707c75ec2a3b02c",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 05-04 占位 Placeholder",
+      "id": "19229:7702",
+      "componentSets": 1,
+      "masters": 4,
+      "assets": [
+        {
+          "name": "Placeholder",
+          "key": "4b3c38b608b7a5e2330aad8b1792084a6a5dfd6b",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 05-05 预览 Preview",
+      "id": "338:4063",
+      "componentSets": 2,
+      "masters": 4,
+      "assets": [
+        {
+          "name": "Image",
+          "key": "bbc2d97cff7dd47a3e19bc45afd28f5656b82ab3",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "Preview",
+          "key": "21a1fd55e6047cde4b8b1988951142c83741fbeb",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 06-01 标签页 Tab",
+      "id": "200:1604",
+      "componentSets": 2,
+      "masters": 10,
+      "assets": [
+        {
+          "name": "_标签",
+          "key": "35277d9855e70aaf14a9b90ecdc0d9665548ffcf",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "Tab",
+          "key": "62ca26f625613f5f734c2db568de38e25e86e674",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 06-02 面包屑 Breadcrumb",
+      "id": "11758:823",
+      "componentSets": 1,
+      "masters": 1,
+      "assets": [
+        {
+          "name": "Breadcrumb",
+          "key": "d940dec9be801ce086b36c881d36b9be8503ce17",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 06-03 分页 Pagination",
+      "id": "208:2560",
+      "componentSets": 2,
+      "masters": 23,
+      "assets": [
+        {
+          "name": "_Cell/页数",
+          "key": "851ed56ccdacc5b46d076adb02d347faa1fc222a",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "Pagination",
+          "key": "be43dae181cd7b2cd91f0dc7d0b34c69db65bc53",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 06-04 锚点 Anchor",
+      "id": "17284:66475",
+      "componentSets": 2,
+      "masters": 3,
+      "assets": [
+        {
+          "name": "_Cell",
+          "key": "e54923b5cc77172899794cb507acbae65451408a",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "Anchor",
+          "key": "521ba02c4139c1e5bbadea1b7660650d0a9f3c49",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 06-05 步骤条 Steps ",
+      "id": "319:2948",
+      "componentSets": 6,
+      "masters": 35,
+      "assets": [
+        {
+          "name": "_连接线",
+          "key": "984016057f3638223e68e927da7e6d95c7325b88",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "_步骤图标",
+          "key": "da77b63c91b0409c35c033d72a057e81566e1ada",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "_步骤类型",
+          "key": "c0f90146b86ce67e312e4b73ce219091e3bb5680",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "纵向步骤条",
+          "key": "e5b5d9660e1d375a021e46b8f020421755fc9f68",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "横向步骤条-2",
+          "key": "24928c5b38d006608f6f74499e1a739e1c484259",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "横向步骤条-1",
+          "key": "b112aa7c804cf6fdb5a59f0745dd572b42add040",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 06-06 时间线 Timeline",
+      "id": "9408:726",
+      "componentSets": 3,
+      "masters": 12,
+      "assets": [
+        {
+          "name": "_类型",
+          "key": "b5bf143cea8b49f2fa4b9f2d10c17da63432b68d",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "Timeline",
+          "key": "ae375e30429dd938bc944539f7793eb8dd509589",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "_连接线",
+          "key": "81cb15d10fb64150d637c64e2fc0ed3a53f47dea",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 06-07 滚动条 Scrollbar",
+      "id": "17537:7731",
+      "componentSets": 1,
+      "masters": 3,
+      "assets": [
+        {
+          "name": "_Scrollbar",
+          "key": "cf8e9d7f91b4d46edfa30a9f114eb5905d38b311",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 07-02 币种和金额选择",
+      "id": "17184:65940",
+      "componentSets": 1,
+      "masters": 10,
+      "assets": [
+        {
+          "name": "币种和金额选择",
+          "key": "8b1aae095a498b735ff7a5d75a0dff7184e5097c",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 07-03 汇率变化提醒",
+      "id": "17184:65948",
+      "componentSets": 1,
+      "masters": 2,
+      "assets": [
+        {
+          "name": "汇率变化",
+          "key": "b0a082fab440451a804d0b6e5e20179f07454e60",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 07-04 密码验证",
+      "id": "17184:65943",
+      "componentSets": 3,
+      "masters": 14,
+      "assets": [
+        {
+          "name": "_Password Input",
+          "key": "a8d64e5d69862736769684385ec233219a462fe1",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "_Body",
+          "key": "3cb848a109120a05c0f2aa9b49c6e50ca2d0bd37",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "Security Verification",
+          "key": "a8edee9b14ac014c405ff459a377db19c083d38d",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 07-05 验证码验证",
+      "id": "17184:65949",
+      "componentSets": 1,
+      "masters": 3,
+      "assets": [
+        {
+          "name": "Verification Code Verification",
+          "key": "a0f68c6716dc398a0030288c1f6843da3e12ee7c",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 07-06 使用引导",
+      "id": "17184:65945",
+      "componentSets": 1,
+      "masters": 2,
+      "assets": [
+        {
+          "name": "Guide",
+          "key": "fb9b9d2bb3ee788b3468a44463d74ef676678a56",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "name": "_示意图",
+          "key": "7680bc9e553873dcfbe246e47e39efbb1ca5663d",
+          "type": "COMPONENT"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 08-01 空态",
+      "id": "20416:22",
+      "componentSets": 0,
+      "masters": 0,
+      "assets": []
+    },
+    {
+      "page": "     ✅ 08-02 邮件",
+      "id": "19215:1979",
+      "componentSets": 0,
+      "masters": 2,
+      "assets": [
+        {
+          "name": "_Details",
+          "key": "d07f4502235bb4a894933eaa267414a2aa766958",
+          "type": "COMPONENT"
+        },
+        {
+          "name": "_Contact",
+          "key": "5e30f9ef371c19333de2614a61ee43d91fe0a6f8",
+          "type": "COMPONENT"
+        }
+      ]
+    },
+    {
+      "page": "     ✅ 08-03 操作结果",
+      "id": "20416:168",
+      "componentSets": 0,
+      "masters": 0,
+      "assets": []
+    },
+    {
+      "page": "Form",
+      "assets": [
+        {
+          "name": "_04_Without Label",
+          "key": "3d390d19186c38fe6de24c28f68a0f4f2c5f6763",
+          "type": "COMPONENT_SET",
+          "properties": {
+            "辅助说明#3532:0": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "说明内容#3532:43": {
+              "type": "TEXT",
+              "defaultValue": "Help info"
+            },
+            "暗提示#3532:86": {
+              "type": "TEXT",
+              "defaultValue": "Placeholder"
+            },
+            "输入内容#3532:128": {
+              "type": "TEXT",
+              "defaultValue": "Input content"
+            },
+            "报错内容#3746:0": {
+              "type": "TEXT",
+              "defaultValue": "Error info"
+            },
+            "报错#3746:69": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "前缀图标#3967:0": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "步进器#4066:0": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "可选单位#4066:106": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "匹配条件#4162:0": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "下拉选择#4229:0": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "字数统计#17492:130": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "暗提示（后）#17492:229": {
+              "type": "TEXT",
+              "defaultValue": "Placeholder"
+            },
+            "输入内容（后）#17492:328": {
+              "type": "TEXT",
+              "defaultValue": "Input content"
+            },
+            "操作4#19290:0": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "操作1#19290:114": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "操作2#19290:228": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "操作3#19290:342": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "表单类型": {
+              "type": "VARIANT",
+              "defaultValue": "输入",
+              "variantOptions": [
+                "输入",
+                "下拉",
+                "单选",
+                "多选",
+                "日期",
+                "时间",
+                "日期区间",
+                "时间区间",
+                "数字区间",
+                "步进器",
+                "前置单位",
+                "后置单位",
+                "标签",
+                "标签（多行）",
+                "文本域",
+                "搜索",
+                "详情展示"
+              ]
+            },
+            "表单状态": {
+              "type": "VARIANT",
+              "defaultValue": "初始",
+              "variantOptions": [
+                "初始",
+                "激活",
+                "录入",
+                "初始禁用",
+                "录入激活",
+                "初始报错",
+                "录入报错"
+              ]
+            }
+          }
+        },
+        {
+          "name": "02_表单（左对齐）",
+          "key": "dcf075f78ba0d8fe95b48f93ef290797ef901541",
+          "type": "COMPONENT_SET",
+          "properties": {
+            "是否必填#4067:242": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "标题内容#17492:15": {
+              "type": "TEXT",
+              "defaultValue": "Label"
+            },
+            "表单标题#19076:19": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "辅助说明#19076:35": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "标题说明#19170:0": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "表单类型": {
+              "type": "VARIANT",
+              "defaultValue": "输入",
+              "variantOptions": [
+                "输入",
+                "下拉",
+                "单选",
+                "多选",
+                "日期",
+                "时间",
+                "日期区间",
+                "时间区间",
+                "数字区间",
+                "步进器",
+                "前置单位",
+                "后置单位",
+                "文本域",
+                "搜索",
+                "开关",
+                "标签",
+                "详情展示"
+              ]
+            }
+          }
+        },
+        {
+          "name": "03_表单（右对齐）",
+          "key": "8b97f830ed3ba3c8ad9f5ea7b4b9f09545286af0",
+          "type": "COMPONENT_SET",
+          "properties": {
+            "是否必填#4067:242": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "标题内容#17492:15": {
+              "type": "TEXT",
+              "defaultValue": "Label"
+            },
+            "表单标题#19076:19": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "辅助说明#19076:35": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "标题说明#19170:0": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "表单类型": {
+              "type": "VARIANT",
+              "defaultValue": "输入",
+              "variantOptions": [
+                "输入",
+                "下拉",
+                "单选",
+                "多选",
+                "日期",
+                "时间",
+                "日期区间",
+                "时间区间",
+                "数字区间",
+                "步进器",
+                "前置单位",
+                "后置单位",
+                "文本域",
+                "搜索",
+                "开关",
+                "标签",
+                "详情展示"
+              ]
+            }
+          }
+        },
+        {
+          "name": "01_表单（顶对齐）",
+          "key": "3f22bdefe8ed5192d71c4e20ab21ffaf25b46cdc",
+          "type": "COMPONENT_SET",
+          "properties": {
+            "是否必填#4067:227": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "表单标题#4114:0": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "辅助说明#4171:0": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "标题内容#17492:0": {
+              "type": "TEXT",
+              "defaultValue": "Label"
+            },
+            "标题说明#19170:16": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "表单类型": {
+              "type": "VARIANT",
+              "defaultValue": "输入",
+              "variantOptions": [
+                "输入",
+                "下拉",
+                "单选",
+                "多选",
+                "日期",
+                "时间",
+                "日期区间",
+                "时间区间",
+                "数字区间",
+                "步进器",
+                "前置单位",
+                "后置单位",
+                "文本域",
+                "搜索",
+                "开关",
+                "标签",
+                "详情展示"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "page": "Table",
+      "assets": [
+        {
+          "name": "01_表头",
+          "key": "67c403559cfe80614bf82eab4d95d497cda65bae",
+          "type": "COMPONENT_SET",
+          "properties": {
+            "多选#3872:18": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "排序#3872:20": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "解释说明图标#3872:22": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "表头说明": {
+              "type": "VARIANT",
+              "defaultValue": "NO",
+              "variantOptions": [
+                "NO",
+                "YES"
+              ]
+            }
+          }
+        },
+        {
+          "name": "02_单元格",
+          "key": "26a06ae5868e1f3ca4091bcc7dc3f3b3d9d6658c",
+          "type": "COMPONENT_SET",
+          "properties": {
+            "内容#3639:0": {
+              "type": "TEXT",
+              "defaultValue": "Content"
+            },
+            "说明内容#3639:4": {
+              "type": "TEXT",
+              "defaultValue": "辅助说明"
+            },
+            "多选#3872:0": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "前缀图标#3872:6": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "解释说明图标#3872:12": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "说明#19024:0": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "操作-2#19024:11": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "操作-1#19024:22": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "操作-3#19024:33": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "操作-4#19024:44": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "更多操作#19024:55": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "前缀内容#19024:66": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "后缀内容#19024:77": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "Hover操作#19027:0": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "已上传图片#19027:12": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "上传操作#19027:24": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "类型": {
+              "type": "VARIANT",
+              "defaultValue": "单行",
+              "variantOptions": [
+                "单行",
+                "两行",
+                "金额",
+                "开关",
+                "商品",
+                "图片",
+                "可编辑表单",
+                "带标签 / 左右排列",
+                "带标签 / 上下排列",
+                "无数据"
+              ]
+            }
+          }
+        },
+        {
+          "name": "03_操作",
+          "key": "be14cd8ad755b1fd5cb9f892e702e91110f0134b",
+          "type": "COMPONENT_SET",
+          "properties": {
+            "操作-2#19384:6": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "操作-1#19384:7": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "操作-3#19384:8": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "操作-4#19384:9": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "更多操作#19384:10": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "类型": {
+              "type": "VARIANT",
+              "defaultValue": "默认",
+              "variantOptions": [
+                "默认",
+                "有操作优先级"
+              ]
+            }
+          }
+        },
+        {
+          "name": "03 批量操作栏",
+          "key": "e377a135ccfea471c6f5a497544d9835ddc8165c",
+          "type": "COMPONENT_SET",
+          "properties": {
+            "批量操作#4140:0": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "分页#4140:2": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "类型": {
+              "type": "VARIANT",
+              "defaultValue": "批量+分页",
+              "variantOptions": [
+                "批量+分页"
+              ]
+            }
+          }
+        },
+        {
+          "name": "_Cell/排序图标",
+          "key": "52446233297618cdaa215a5f167669184713ac5e",
+          "type": "COMPONENT_SET",
+          "properties": {
+            "状态": {
+              "type": "VARIANT",
+              "defaultValue": "01 默认",
+              "variantOptions": [
+                "01 默认",
+                "02 升序",
+                "03 降序"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "page": "Dropdown",
+      "assets": [
+        {
+          "name": "_dropdown menu item",
+          "key": "d94e6ee8ee15b0799fa7e52db8ddb198408b1898",
+          "type": "COMPONENT_SET",
+          "properties": {
+            "描述说明#3281:612": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "后缀图标#11854:42": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "前缀图标#19079:91": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "地址位置内容#19079:125": {
+              "type": "TEXT",
+              "defaultValue": "Futian District, Shenzhen, Guangdong Province, China, 518049"
+            },
+            "次级地址信息#19079:159": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "具体位置信息#19079:193": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "选项内容#19079:227": {
+              "type": "TEXT",
+              "defaultValue": "Option"
+            },
+            "描述内容#19079:261": {
+              "type": "TEXT",
+              "defaultValue": "Description"
+            },
+            "电话代码#19079:295": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "描述说明（右侧）#20348:0": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "描述说明（下方）#20348:2": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "下级#20348:3": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "类型": {
+              "type": "VARIANT",
+              "defaultValue": "操作",
+              "variantOptions": [
+                "常规单选",
+                "常规多选",
+                "国家地区",
+                "状态标记",
+                "地址位置",
+                "操作"
+              ]
+            },
+            "状态": {
+              "type": "VARIANT",
+              "defaultValue": "默认",
+              "variantOptions": [
+                "默认",
+                "禁用",
+                "悬浮",
+                "点击"
+              ]
+            },
+            "选中": {
+              "type": "VARIANT",
+              "defaultValue": "False",
+              "variantOptions": [
+                "False",
+                "True"
+              ]
+            }
+          }
+        },
+        {
+          "name": "下拉菜单",
+          "key": "9d27765d8c63a0494555827af8a18754213b5783",
+          "type": "COMPONENT_SET",
+          "properties": {
+            "滚动条#17997:0": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "Dropdown list#20302:10": {
+              "type": "SLOT",
+              "description": "",
+              "slotSettings": {
+                "stretchChildOnInsert": false,
+                "displayEmptyByDefault": false,
+                "minChildren": null,
+                "maxChildren": null,
+                "allowPreferredValuesOnly": false
+              },
+              "preferredValues": []
+            },
+            "类型": {
+              "type": "VARIANT",
+              "defaultValue": "常规单选",
+              "variantOptions": [
+                "常规单选"
+              ]
+            },
+            "选中": {
+              "type": "VARIANT",
+              "defaultValue": "NO",
+              "variantOptions": [
+                "NO"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "page": "Country",
+      "assets": [
+        {
+          "name": "国家地区号码",
+          "key": "2ef242a4726dbd850057f91021301e6dba9c08d1",
+          "type": "COMPONENT_SET",
+          "properties": {
+            "是否必填#10863:8": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "辅助说明#10863:15": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "暗提示#19076:0": {
+              "type": "TEXT",
+              "defaultValue": "Phone number"
+            },
+            "国家地区选择#19077:51": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "报错#19077:65": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "说明内容#19077:72": {
+              "type": "TEXT",
+              "defaultValue": "Help info"
+            },
+            "标题内容#19077:79": {
+              "type": "TEXT",
+              "defaultValue": "Phone number"
+            },
+            "输入内容#19077:85": {
+              "type": "TEXT",
+              "defaultValue": "133 1234 1234"
+            },
+            "表单标题#19079:329": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "报错内容#19172:14": {
+              "type": "TEXT",
+              "defaultValue": "Error info"
+            },
+            "标题说明#19256:6": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "表单状态": {
+              "type": "VARIANT",
+              "defaultValue": "初始",
+              "variantOptions": [
+                "初始",
+                "激活",
+                "录入",
+                "初始禁用",
+                "录入激活",
+                "初始报错",
+                "录入报错"
+              ]
+            }
+          }
+        },
+        {
+          "name": "国家地区",
+          "key": "5f5f7d1389ff5b6ac7973e00124136da78d4726b",
+          "type": "COMPONENT_SET",
+          "properties": {
+            "是否必填#10863:8": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "辅助说明#10863:15": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "报错#19077:65": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "说明内容#19077:72": {
+              "type": "TEXT",
+              "defaultValue": "Help info"
+            },
+            "标题内容#19077:79": {
+              "type": "TEXT",
+              "defaultValue": "Select Country"
+            },
+            "表单标题#19079:329": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "报错内容#19172:8": {
+              "type": "TEXT",
+              "defaultValue": "Error info"
+            },
+            "标题说明#19256:0": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "表单状态": {
+              "type": "VARIANT",
+              "defaultValue": "初始",
+              "variantOptions": [
+                "初始",
+                "激活",
+                "初始禁用",
+                "录入激活",
+                "初始报错"
+              ]
+            }
+          }
+        },
+        {
+          "name": "Menu items",
+          "key": "1a07b2aae3c1dcc10d69b77d7daa2304e6852786",
+          "type": "COMPONENT_SET",
+          "properties": {
+            "Property 1": {
+              "type": "VARIANT",
+              "defaultValue": "Default",
+              "variantOptions": [
+                "Default",
+                "Variant2"
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

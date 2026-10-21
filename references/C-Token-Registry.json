@@ -1,0 +1,1699 @@
+{
+  "sourceFileKey": "TKHzEYvXwFS10wSNHK7EGC",
+  "libraryKey": "lk-682f07f5ed8ef1580517f163e09c1133256cc6d7aa91d80381e4b5fd85aae6972163c5634b4b7dcd2f96207858090d3dd0753cc44c77ea3660723d390d14aba9",
+  "verificationDate": "2026-10-21",
+  "collections": [
+    {
+      "name": "Color",
+      "key": "78c3f6827610ff31d84cb0ed1b4912a085a06b91",
+      "modes": [
+        "Light",
+        "Dark"
+      ]
+    },
+    {
+      "name": "Spacing",
+      "key": "b16325fd353ba4f8d69ecd0c8b99f51aeca996b2",
+      "modes": [
+        "Normal",
+        "Spacious",
+        "Compact"
+      ]
+    },
+    {
+      "name": "多币种",
+      "key": "125995f3630c3ecc952681e67f2a1c49d4295af1",
+      "modes": [
+        "货币代码",
+        "中文名称"
+      ]
+    },
+    {
+      "name": "国家地区",
+      "key": "8ccd7e0dcf4336d89a87a23443d2d76309d2c382",
+      "modes": [
+        "EN",
+        "CN",
+        "代码",
+        "电话代码"
+      ]
+    },
+    {
+      "name": "FontWeight",
+      "key": "23ebc350c2784dfc0a476700077c1431bfaa4ea4",
+      "modes": [
+        "Normal"
+      ]
+    },
+    {
+      "name": "LineHeight",
+      "key": "2b5168f8cd53eab34d12e092aed1cc0b8deed59f",
+      "modes": [
+        "Normal",
+        "Loose",
+        "Compact",
+        "Large Loose"
+      ]
+    },
+    {
+      "name": "银行",
+      "key": "6305c9cb5bbb6c492f0aee1ec53c0a56ac8ad92d",
+      "modes": [
+        "CN",
+        "EN"
+      ]
+    },
+    {
+      "name": "FontFamily",
+      "key": "506acf5936fec0db92575dbf98acdc9a3230ea46",
+      "modes": [
+        "macOS / iOS",
+        "Windows",
+        "Harmony",
+        "Android"
+      ]
+    },
+    {
+      "name": "多语言",
+      "key": "7e320b67ced650b0ad08d42f14958edebc1f260e",
+      "modes": [
+        "语言"
+      ]
+    },
+    {
+      "name": "Radius",
+      "key": "212efbc1ea82e70f3ed5faa851ad02935e597546",
+      "modes": [
+        "Normal",
+        "Small",
+        "Large",
+        "Full"
+      ]
+    },
+    {
+      "name": "WidthSize",
+      "key": "f6fb9402ee40db70069d4ef53f36f07eca8b293c",
+      "modes": [
+        "Value"
+      ]
+    },
+    {
+      "name": "_Primitives",
+      "key": "8d5243450227839d352eabff61b1c130add0643f",
+      "modes": [
+        "Value"
+      ]
+    },
+    {
+      "name": "Component",
+      "key": "d7d5bea87e7ad4d0fec26d93a760338bbff3a428",
+      "modes": [
+        "Default"
+      ]
+    },
+    {
+      "name": "FontSize",
+      "key": "1363735675810db31ecb9d2b421a5953b441abb4",
+      "modes": [
+        "Normal",
+        "Small",
+        "Large"
+      ]
+    }
+  ],
+  "color": {
+    "collection": "Color",
+    "modes": [
+      "Light",
+      "Dark"
+    ],
+    "rows": [
+      [
+        "Text icon/color-text-icon-primary",
+        "71673058b9629a3e72efc55e5da441e1ecdc9dcf",
+        "#171717",
+        "#F5F5F5"
+      ],
+      [
+        "Text icon/color-text-icon-secondary",
+        "1cf159e8696af518ed6accc8aefb8a41451d651d",
+        "#38373D",
+        "#D2D1D8"
+      ],
+      [
+        "Text icon/color-text-icon-tertiary",
+        "6f2bd9ae69b29caccba53226f50011aaa1345784",
+        "#817F86",
+        "#817F86"
+      ],
+      [
+        "Text icon/color-text-icon-quaternary",
+        "f49d51443fadc6fc9d0e6b7fcc7b41e4e6871adf",
+        "#A5A4AA",
+        "#5C5B61"
+      ],
+      [
+        "Disable/color-text-disable",
+        "02ee1c6e3848f4127bdcc04c6f5f88a5c8d11166",
+        "#A5A4AA",
+        "#5C5B61"
+      ],
+      [
+        "Danger/color-danger",
+        "47925e2b0a0a69d69150153ee019cbd2c6457a58",
+        "#EA423B",
+        "#EA423B"
+      ],
+      [
+        "Link/color-link",
+        "e07031f730ff5d45d3f63dd5a7a41fc6b88b3ee4",
+        "#5548FF",
+        "#5548FF"
+      ],
+      [
+        "Line/color-line-border-regular",
+        "f9a50ca4c4a20d0c97056c694bad0d151fc5ced3",
+        "#E4E3EA",
+        "#38373D"
+      ],
+      [
+        "Line/color-line-separator-regular",
+        "d4f1b3dd037bc988731ca89c3f8394537449ce53",
+        "#F1F2F5",
+        "#303030"
+      ],
+      [
+        "Line/color-line-border-light",
+        "cff526d78c20341a0c6e163975f56495a8604b68",
+        "#F1F2F5",
+        "#303030"
+      ],
+      [
+        "Surface/color-surface-secondary",
+        "108d9fc2e20a83fe97a2bb1f39ceade2fe6824e9",
+        "#F1F2F5",
+        "#141318"
+      ],
+      [
+        "Surface/color-surface-primary",
+        "190fbfbaa9e859568e3ad3d99bd683e2b96391c7",
+        "#FFFFFF",
+        "#222126"
+      ],
+      [
+        "Success/color-success",
+        "8531bda6ce484d90baff923361f1313cc3464d64",
+        "#21A470",
+        "#21A470"
+      ],
+      [
+        "Warning/color-warning",
+        "bd3f041079ef472b362ada26ccb0409f445ce2c1",
+        "#F98C1F",
+        "#F98C1F"
+      ],
+      [
+        "Warning/color-warning-hover",
+        "aba1a1d998ef1fa98081b48f9f60d97860369947",
+        "#CB741E",
+        "#FA9A3A"
+      ],
+      [
+        "Line/color-line-border-dark",
+        "415a97f3abbb117ec74b2d6337fb247fda53f924",
+        "#D2D1D8",
+        "#5C5B61"
+      ],
+      [
+        "Basic/color-basic-primary",
+        "c2fee017a68609549ef54ea32ccc055f2715c450",
+        "#5548FF",
+        "#5548FF"
+      ],
+      [
+        "Surface/color-surface-active",
+        "fbd2fb5bce360d2020b9d6b03e6475a7fa874298",
+        "#0000001A",
+        "#FFFFFF1A"
+      ],
+      [
+        "Constant/color-constant-overlay",
+        "2178f7ee4a91fbf91aaed59c280706df8197011a",
+        "#00000080",
+        "#00000080"
+      ],
+      [
+        "Surface/color-surface-hover",
+        "ee084bdad6e84d9103dd459fd198bf2b81b9b2d1",
+        "#0000000D",
+        "#FFFFFF0D"
+      ],
+      [
+        "Basic/color-basic-primary-hover",
+        "d0e166bb2ab0370fcd14f90f4393e2080c682c0c",
+        "#483DD1",
+        "#695EFF"
+      ],
+      [
+        "Basic/color-basic-primary-active",
+        "49d42b6884b87359c3cfca21ce98f02ff08c3af7",
+        "#3E35AC",
+        "#7E74FF"
+      ],
+      [
+        "Basic/color-basic-primary-disable",
+        "7e76ffa91631f5afc65c0f8e78a9d8bf501ebc98",
+        "#CFCCFF",
+        "#332C87"
+      ],
+      [
+        "Basic/color-basic-primary-light",
+        "2b93a9a7fdbdd64a5bc8bb41b786b0f6a8a27ff2",
+        "#F1F0FF",
+        "#1E1B3D"
+      ],
+      [
+        "Basic/color-basic-primary-light-hover",
+        "7ea58acaf000ee75a3af99b3878a3386722aa3f8",
+        "#E4E2FF",
+        "#24204F"
+      ],
+      [
+        "Basic/color-basic-primary-light-active",
+        "e6543527f450f22d24d92bc46d6535d3b9ca6f6c",
+        "#CFCCFF",
+        "#332C87"
+      ],
+      [
+        "Basic/color-basic-primary-light-disable",
+        "fcfb949d26a4e6cce086e50d78d93f71cd257bd9",
+        "#F1F0FF",
+        "#1E1B3D"
+      ],
+      [
+        "Disable/color-fill-disable",
+        "96513d643742e8ac26812e4231ca89d451a7dde9",
+        "#ECECEC",
+        "#222126"
+      ],
+      [
+        "Link/color-link-hover",
+        "aa328e4d2b8ff11a1c48f0b01819525fc2c4f42b",
+        "#483DD1",
+        "#695EFF"
+      ],
+      [
+        "Link/color-link-active",
+        "d761b01f01a36dd3f63599181245ca8f3028c82f",
+        "#3E35AC",
+        "#7E74FF"
+      ],
+      [
+        "Link/color-link-visited",
+        "9d7f540dd364f7e2af90f47b97cbb4c1d630e741",
+        "#695EFF",
+        "#483DD1"
+      ],
+      [
+        "Info/color-info",
+        "ea24a95913a029e857f8e7ff0b9b6dfbd925be71",
+        "#3369FF",
+        "#3369FF"
+      ],
+      [
+        "Info/color-info-hover",
+        "327d8134fc9f6ef23f897ec381842eef0c8b7998",
+        "#2D58D1",
+        "#4B7BFF"
+      ],
+      [
+        "Info/color-info-active",
+        "45aa0bc3564d7d69fead7dfddfc6bd0706b44723",
+        "#284AAC",
+        "#648DFF"
+      ],
+      [
+        "Info/color-info-light",
+        "e80268f4c9968e07d4c9efe70cc4bcaa5d1b9d01",
+        "#EFF3FF",
+        "#19213D"
+      ],
+      [
+        "Info/color-info-light-hover",
+        "137fd9661145a012552dbb2f239d890e12be62e6",
+        "#E7EDFF",
+        "#1B284F"
+      ],
+      [
+        "Info/color-info-light-active",
+        "48254862ebd4d1f931b28ba7fa85f861bd0144fe",
+        "#C6D5FF",
+        "#233C87"
+      ],
+      [
+        "Info/color-info-disable",
+        "ba34fca869a651fd31c518d0316c4a3e88765be1",
+        "#C6D5FF",
+        "#233C87"
+      ],
+      [
+        "Info/color-info-light-disable",
+        "bee896bbea22217d8706956d43f2c6d4c7943337",
+        "#EFF3FF",
+        "#19213D"
+      ],
+      [
+        "Warning/color-warning-active",
+        "0420347ad379c0a082d403eaa9a1b44440853284",
+        "#A7601C",
+        "#FAA855"
+      ],
+      [
+        "Warning/color-warning-disable",
+        "12456b89b2e859973d782f31351a519c728be25e",
+        "#FDDFC0",
+        "#824D1B"
+      ],
+      [
+        "Danger/color-danger-hover",
+        "2b115400d5c2ff1012bb7c5c65f65f99d2302d19",
+        "#BF3934",
+        "#ED5953"
+      ],
+      [
+        "Danger/color-danger-active",
+        "38e0a769702b4e90465652a1a17a567a4cc70c44",
+        "#9D312E",
+        "#EF6F6A"
+      ],
+      [
+        "Danger/color-danger-disable",
+        "22df0ace332de4d980630413aafbb44f661528a7",
+        "#F9CAC8",
+        "#7B2A29"
+      ],
+      [
+        "Danger/color-danger-light",
+        "a66314d504214c3ddfe5dd574001bb87a36c3283",
+        "#FDF0EF",
+        "#361B1E"
+      ],
+      [
+        "Danger/color-danger-light-hover",
+        "e2a18d123fd623f468ac338f18b5866d17a41eeb",
+        "#FCE1E0",
+        "#471E20"
+      ],
+      [
+        "Danger/color-danger-light-active",
+        "0298b4bd238810328e4f05c9737c22619b31c5c6",
+        "#F9CAC8",
+        "#7B2A29"
+      ],
+      [
+        "Danger/color-danger-light-disable",
+        "06ac37a5b0f67fae19f35d8041f134fb97bcb072",
+        "#FDF0EF",
+        "#361B1E"
+      ],
+      [
+        "Warning/color-warning-light",
+        "de5d2a901fbe5d999981c82ce3f9f42ec20e8f48",
+        "#FFF6ED",
+        "#392619"
+      ],
+      [
+        "Warning/color-warning-light-hover",
+        "ab262819cf644f3462c7cecfa836315f84c5cb06",
+        "#FEEDDB",
+        "#4B301A"
+      ],
+      [
+        "Warning/color-warning-light-active",
+        "0f43cd1c16930d2b517bd14df4edcb4c0b2eddb4",
+        "#FDDFC0",
+        "#824D1B"
+      ],
+      [
+        "Warning/color-warning-light-disable",
+        "5c888bfa0f6164b0d1b9aadf2e6b7f6182d24224",
+        "#FFF6ED",
+        "#392619"
+      ],
+      [
+        "Success/color-success-light-disable",
+        "ce81adf7660a5720a3a8c4ee14b43e4e6d647043",
+        "#EDF8F4",
+        "#162A26"
+      ],
+      [
+        "Success/color-success-light-active",
+        "e88b06809de8f00f43c04a423679366d716d2a73",
+        "#C1E6D7",
+        "#1A5942"
+      ],
+      [
+        "Success/color-success-active",
+        "7783dabc88aacff5c855c2b5ab23068247ea8afb",
+        "#1C7050",
+        "#56BA92"
+      ],
+      [
+        "Success/color-success-light-hover",
+        "8246f4b951065d170c3704a051321ba52ee7f91e",
+        "#DBF0E8",
+        "#17362D"
+      ],
+      [
+        "Success/color-success-light",
+        "bcd303eec31eb4bc2569cf8912bb1c8ca05f22c4",
+        "#EDF8F4",
+        "#162A26"
+      ],
+      [
+        "Success/color-success-disable",
+        "4e43ff6b84d68903ee916fab8592b6c8064eb0fa",
+        "#C1E6D7",
+        "#1A5942"
+      ],
+      [
+        "Success/color-success-hover",
+        "1b02deed047ca5fd24ba6d08ce53c478eeb9c5cb",
+        "#1E875E",
+        "#3CAF81"
+      ],
+      [
+        "Constant/color-constant-white",
+        "cb6b5ef2e16ed01471c02efbc2b1a101e4ac3082",
+        "#FFFFFF",
+        "#FFFFFF"
+      ],
+      [
+        "Constant/color-constant-black",
+        "f1ff800a902303294ed9d5cefda7665c15b365f2",
+        "#000000",
+        "#000000"
+      ],
+      [
+        "Constant/color-constant-hover",
+        "7879220c1a53709546a2dafdca68bef225b2781c",
+        "#0000000D",
+        "#FFFFFF0D"
+      ],
+      [
+        "Constant/color-constant-active",
+        "2f665fe717d35ac97a9052af9ebffea03b1294de",
+        "#0000001A",
+        "#FFFFFF1A"
+      ],
+      [
+        "Constant/color-constant-transparency",
+        "f0526b170dc821350d152519091bbf748d8a30b1",
+        "#00000000",
+        "#00000000"
+      ],
+      [
+        "Line/color-line-border-focus",
+        "dd49baafc6114cae0bb58626bf065fb64bec6e1f",
+        "#5548FF",
+        "#5548FF"
+      ],
+      [
+        "Surface/color-surface-tertiary",
+        "3ec86b5e5c1360ff4316c6bd17d5e8ef3cadd3af",
+        "#ECECEC",
+        "#0F0E12"
+      ],
+      [
+        "Disable/color-text-light-disable",
+        "df9f1b1cd244d3272485d313734caa3b423cbbf5",
+        "#E4E3EA",
+        "#222126"
+      ],
+      [
+        "Line/color-line-separator-dark",
+        "c00f32bf17e5012b4b4c6593bd94ca2d9595fa09",
+        "#E4E3EA",
+        "#38373D"
+      ],
+      [
+        "Link/color-link-disable",
+        "7fef966bcde404bf158330cbc54261d318a78d74",
+        "#CFCCFF",
+        "#332C87"
+      ],
+      [
+        "Constant/color-constant-Scrollbar",
+        "8777bb86d1ab744727465dfe3171822949bce710",
+        "#0000004D",
+        "#0000004D"
+      ],
+      [
+        "Text icon reverse/color-text-icon-reverse-tertiary",
+        "d9da7f38ad9e7fd1a8d008076a6f3a3cc11ee0c3",
+        "BLOCKED_EXTERNAL_ALIAS",
+        "BLOCKED_EXTERNAL_ALIAS"
+      ],
+      [
+        "Text icon reverse/color-text-icon-reverse-secondary",
+        "93621366d535976bce0953501a937e2d290dc1f0",
+        "BLOCKED_EXTERNAL_ALIAS",
+        "BLOCKED_EXTERNAL_ALIAS"
+      ],
+      [
+        "Text icon reverse/color-text-icon-reverse-primary",
+        "ac9eefc65acd58bf58df37f8cfa8b45deb45154c",
+        "BLOCKED_EXTERNAL_ALIAS",
+        "BLOCKED_EXTERNAL_ALIAS"
+      ],
+      [
+        "Surface reverse/color-surface-reverse-active",
+        "cb060277d87698fe8ba620bfa29a60d870a06145",
+        "BLOCKED_EXTERNAL_ALIAS",
+        "BLOCKED_EXTERNAL_ALIAS"
+      ],
+      [
+        "Surface reverse/color-surface-reverse-hover",
+        "e85e9fa54075dc97be5fc6d0e5ba1c345eca6313",
+        "BLOCKED_EXTERNAL_ALIAS",
+        "BLOCKED_EXTERNAL_ALIAS"
+      ],
+      [
+        "Surface reverse/color-surface-reverse-secondary",
+        "760aa6a8cd449689a19d9fa4119ae042a7d89c22",
+        "BLOCKED_EXTERNAL_ALIAS",
+        "BLOCKED_EXTERNAL_ALIAS"
+      ],
+      [
+        "Line reverse/color-line-reverse-border-light",
+        "1398d1398de02176b23af6b9d38451f0894e9447",
+        "BLOCKED_EXTERNAL_ALIAS",
+        "BLOCKED_EXTERNAL_ALIAS"
+      ],
+      [
+        "Line reverse/color-line-reverse-border-regular",
+        "431047c2e35297ff189945d4ae5e64661a3ee2a5",
+        "BLOCKED_EXTERNAL_ALIAS",
+        "BLOCKED_EXTERNAL_ALIAS"
+      ],
+      [
+        "Line reverse/color-line-reverse-separator-regular",
+        "140ec75b76e3c67724c310557633ebf3bfac0ee9",
+        "BLOCKED_EXTERNAL_ALIAS",
+        "BLOCKED_EXTERNAL_ALIAS"
+      ],
+      [
+        "Surface reverse/color-surface-reverse-tertiary",
+        "1c0c8107ef42d6a9cd6c1f68ae4b45aba02417f1",
+        "BLOCKED_EXTERNAL_ALIAS",
+        "BLOCKED_EXTERNAL_ALIAS"
+      ],
+      [
+        "Text icon reverse/color-text-icon-reverse-quaternary",
+        "b01887f794f604c4b06934e9c9729066c3789392",
+        "BLOCKED_EXTERNAL_ALIAS",
+        "BLOCKED_EXTERNAL_ALIAS"
+      ],
+      [
+        "Line reverse/color-line-reverse-border-dark",
+        "d796b04ae0504ea0f26d547e0075a836fe43bcd8",
+        "BLOCKED_EXTERNAL_ALIAS",
+        "BLOCKED_EXTERNAL_ALIAS"
+      ],
+      [
+        "Line reverse/color-line-reverse-separator-dark-",
+        "3debc7f11ebd4937086468f122acedea44cec15d",
+        "BLOCKED_EXTERNAL_ALIAS",
+        "BLOCKED_EXTERNAL_ALIAS"
+      ],
+      [
+        "Surface reverse/color-surface-reverse-primary",
+        "10fc12548631cf902adf9069080d7d88468c4926",
+        "BLOCKED_EXTERNAL_ALIAS",
+        "BLOCKED_EXTERNAL_ALIAS"
+      ],
+      [
+        "Surface/color-surface-subtle",
+        "975944ade2fb781f614eefdbcbd4d6dcb7e3a595",
+        "#F7F8FB",
+        "#38373D"
+      ]
+    ]
+  },
+  "foundations": [
+    {
+      "name": "Spacing",
+      "modes": [
+        "Normal",
+        "Spacious",
+        "Compact"
+      ],
+      "rows": [
+        [
+          "spacing-xs",
+          "2f13460b281e4563bea09699ad7349f1e2e2db8a",
+          2,
+          4,
+          2
+        ],
+        [
+          "spacing-l",
+          "f4cab1c9451eaf6d13da0f751f0a26f6ec804783",
+          12,
+          16,
+          10
+        ],
+        [
+          "spacing-xl",
+          "d100157e07fb372e0aaa743929bcc03c46b2684e",
+          16,
+          20,
+          12
+        ],
+        [
+          "spacing-2xl",
+          "3dfb5c891044a0bd81c132fe73ccfdf7a377e0cf",
+          20,
+          24,
+          16
+        ],
+        [
+          "spacing-4xl",
+          "c80d8319fcb0e9dbe388026f6f101fcff420cab2",
+          32,
+          36,
+          28
+        ],
+        [
+          "spacing-m",
+          "91f80e58b25f519dc987c795257e228607816335",
+          8,
+          12,
+          8
+        ],
+        [
+          "spacing-s",
+          "557082ebb39fbf48e67afd9f4da55e883ca3c1ed",
+          4,
+          8,
+          4
+        ],
+        [
+          "spacing-3xl",
+          "22742a4e3e71c949b455dc5842665042b95abd39",
+          24,
+          28,
+          20
+        ],
+        [
+          "spacing-5xl",
+          "f1ae6397863450faefa47aafdb119574e380d544",
+          40,
+          48,
+          32
+        ],
+        [
+          "spacing-0",
+          "e0ef986fb922cebb40f14d8945051d3bd3c1534c",
+          0,
+          0,
+          0
+        ],
+        [
+          "spacing-2xs",
+          "a78cf61e8dee10655045196a1a2e028ccbfc496f",
+          1,
+          2,
+          1
+        ],
+        [
+          "spacing-6xl",
+          "5b82e028fe0bf459414cfc527fe878f941acaafc",
+          48,
+          56,
+          40
+        ],
+        [
+          "spacing-7xl",
+          "8d3bdf53a8f7639d8d24af52fbf5211b70468194",
+          56,
+          64,
+          48
+        ],
+        [
+          "spacing-8xl",
+          "34c3c027221a740391ed78503396009d67c23972",
+          64,
+          72,
+          56
+        ]
+      ]
+    },
+    {
+      "name": "Radius",
+      "modes": [
+        "Normal",
+        "Small",
+        "Large",
+        "Full"
+      ],
+      "rows": [
+        [
+          "radius-0",
+          "a400c04834c4b2024d472c5d722ae3d093ecf9ed",
+          0,
+          0,
+          0,
+          9999
+        ],
+        [
+          "radius-2xs",
+          "af1fa73094ef52a89366710b969abaec0b8c0052",
+          2,
+          0,
+          4,
+          9999
+        ],
+        [
+          "radius-xs",
+          "b108bf012f31aaf7b66ec0fbec2abe07898b99af",
+          4,
+          2,
+          8,
+          9999
+        ],
+        [
+          "radius-s",
+          "89607da0a27c13a1e3a545e56808fb96bf0bd336",
+          6,
+          2,
+          10,
+          9999
+        ],
+        [
+          "radius-m",
+          "fc94e1d323aa249a1cc9966ca22d0853e6c64187",
+          8,
+          4,
+          12,
+          9999
+        ],
+        [
+          "radius-l",
+          "7fa0c83cd5c293fd345bd410cd8b4afa6f8685aa",
+          10,
+          6,
+          14,
+          9999
+        ],
+        [
+          "radius-xl",
+          "c43f2cb66b7128cab4a8ec6a5bc7b6c9007c94ee",
+          12,
+          8,
+          16,
+          9999
+        ],
+        [
+          "radius-2xl",
+          "e49d9f40060610a8e13f158214c08fe488249ab2",
+          16,
+          12,
+          18,
+          9999
+        ],
+        [
+          "radius-3xl",
+          "8c2328dad94e564b338a7c5bb1ae5a6314f3bf87",
+          20,
+          16,
+          24,
+          9999
+        ],
+        [
+          "radius-4xl",
+          "b97e8f20f401b78936f4bb26bbc44583f7b194ab",
+          24,
+          20,
+          28,
+          9999
+        ],
+        [
+          "radius-full",
+          "995d65fc127f3e9f8e81067014d8ecbd16872514",
+          9999,
+          9999,
+          9999,
+          9999
+        ]
+      ]
+    },
+    {
+      "name": "WidthSize",
+      "modes": [
+        "Value"
+      ],
+      "rows": [
+        [
+          "Screen/screen-width-Desktop-Standard",
+          "de5f65b076c07976246fb16b31431fa30156dd5b",
+          1440
+        ],
+        [
+          "Drawer/drawer-width-l",
+          "90a4e617c1bbea5159426ee9910a5b41fb46b2fc",
+          900
+        ],
+        [
+          "Drawer/drawer-width-m",
+          "b4c76b186a911008f6ef982c5d8258ba30083106",
+          720
+        ],
+        [
+          "Drawer/drawer-width-s",
+          "8e3f4d4c6518e196aeee383be56dc526544ea8d5",
+          360
+        ],
+        [
+          "Table/table-width-10",
+          "23bcb3f78cd61527119c3d25c007e31b7eba312c",
+          360
+        ],
+        [
+          "Table/table-width-09",
+          "2628613f52fd8d76fab092bc5cc948a784e03367",
+          320
+        ],
+        [
+          "Table/table-width-08",
+          "de5e15102a39726f1069e7a8e194284ebf82791a",
+          240
+        ],
+        [
+          "Table/table-width-07",
+          "5da9939a01be3a5865824b4fd1cfe5e476c6b604",
+          200
+        ],
+        [
+          "Form/form-item-width-m",
+          "4a004f1efd03d6f01e69923750739a8e165556fb",
+          426
+        ],
+        [
+          "Table/table-width-06",
+          "7907d2f0696017f5ef954754d4dc5584e61e3c3e",
+          180
+        ],
+        [
+          "Form/form-item-width-l",
+          "b472c9b836c9b1ebe9af033ce074668559025529",
+          572
+        ],
+        [
+          "Table/table-width-05",
+          "d465a5f9c9e7ce1bb7d6e025e35b0a771e94c229",
+          160
+        ],
+        [
+          "Table/table-width-03",
+          "5138f6b349afb2af383ff04eabfd7d0c24ccc5b3",
+          120
+        ],
+        [
+          "Table/table-width-04",
+          "3c79634fc653e22fd919cf76691891f852184b8c",
+          140
+        ],
+        [
+          "Form/form-item-width-regular",
+          "45f89a8e0b7a9e2f8fcd75ce7f4766bc1e810f21",
+          280
+        ],
+        [
+          "Form/form-item-width-w",
+          "f7cbc016f1551f210f6ad6c0c958ebdc82e94f04",
+          134
+        ],
+        [
+          "Table/table-width-12",
+          "381c629ecd9af68eaae2c96c8dbc0297ddd8bec3",
+          520
+        ],
+        [
+          "Table/table-width-11",
+          "1c584ca51a903392ee4561511ddece8e79eb1c49",
+          440
+        ],
+        [
+          "Table/table-width-01",
+          "6f85f9f375eb9bd9a177b348a66857ee6d9a4998",
+          80
+        ],
+        [
+          "Screen/screen-width-Mobile-Standard",
+          "a87245f43b73af6ee11ec0bcb2b433be4f4b338d",
+          390
+        ],
+        [
+          "Screen/screen-width-Desktop-Small",
+          "301f8793dac126b612c4b2e88430bacd33424e83",
+          1000
+        ],
+        [
+          "Screen/screen-width-Desktop-Large",
+          "002f8553de01f0e7b9e47716badb890685805f18",
+          2560
+        ],
+        [
+          "Screen/screen-width-Desktop-ExtraLarge",
+          "b192ad36ac199b39d2d2ec0b3d31b53b1981553f",
+          3840
+        ],
+        [
+          "Form/form-width-l",
+          "cc82a1861e89ea660318528613b9cf4515445ca2",
+          900
+        ],
+        [
+          "Form/form-width-m",
+          "07b1b00f466100cf48decbcc83ed6e693aa2b68f",
+          720
+        ],
+        [
+          "Form/form-width-regular",
+          "43741e6611286ee57a70102716d4818debdd8bc0",
+          572
+        ],
+        [
+          "Table/table-width-02",
+          "48cb0f3e1aa916e55b5448fbfc749883aaaa128e",
+          100
+        ]
+      ]
+    },
+    {
+      "name": "FontSize",
+      "modes": [
+        "Normal",
+        "Small",
+        "Large"
+      ],
+      "rows": [
+        [
+          "font-size-heading-2",
+          "969fcc0c9d554d5005f360c20b6965ee2347b03f",
+          48,
+          40,
+          56
+        ],
+        [
+          "font-size-heading-3",
+          "36ee0943837de521d7f2d38d4ef91432f51fed1f",
+          32,
+          28,
+          36
+        ],
+        [
+          "font-size-heading-1",
+          "578aea42b8e9537ccfdc91b44898cfa5b0733579",
+          64,
+          56,
+          72
+        ],
+        [
+          "font-size-heading-5",
+          "436d0c5267837e82c5a32325499e19994a75352c",
+          24,
+          20,
+          28
+        ],
+        [
+          "font-size-body-l",
+          "e2aeb798840d79aeaa5f55454559ceaa3bab69b3",
+          16,
+          14,
+          18
+        ],
+        [
+          "font-size-heading-4",
+          "97d671246df7cb170ea945e1443b021801b2ed4d",
+          28,
+          24,
+          32
+        ],
+        [
+          "font-size-body-xl",
+          "68def4a26a0a817caf966c076eb6e54c3adf71a8",
+          18,
+          16,
+          20
+        ],
+        [
+          "font-size-body",
+          "3718aeb9fa42c480920b4a20989f6837b33e10d6",
+          14,
+          12,
+          16
+        ],
+        [
+          "font-size-heading-6",
+          "a9b5fe26bba93f5f64676475f81492fe76bbc24c",
+          20,
+          18,
+          24
+        ],
+        [
+          "font-size-caption",
+          "ec24b168fc20ae2e7f4fa0b11a4dfc737bf7c04a",
+          12,
+          12,
+          14
+        ],
+        [
+          "font-size-tag",
+          "a3e77d2bf2a35ddef16de979c78ac3117d644e5e",
+          10,
+          10,
+          10
+        ]
+      ]
+    },
+    {
+      "name": "FontFamily",
+      "modes": [
+        "macOS / iOS",
+        "Windows",
+        "Harmony",
+        "Android"
+      ],
+      "rows": [
+        [
+          "font-family-EN",
+          "c5728d93022ca9e88f4c54333e44189bf3489d32",
+          "SF Pro Text",
+          "Microsoft YaHei UI",
+          "HarmonyOS Sans SC",
+          "Roboto"
+        ],
+        [
+          "font-family-ZH",
+          "3598cb6019eb61f5718bdd5361afa981d54414f6",
+          "PingFang SC",
+          "Microsoft YaHei UI",
+          "HarmonyOS Sans SC",
+          "Noto Sans CJK SC"
+        ],
+        [
+          "font-family-Number",
+          "fa8fc6618be54566b53652b3ba43d98d48c9fe4b",
+          "IBM Plex Sans Condensed",
+          "IBM Plex Sans Condensed",
+          "IBM Plex Sans Condensed",
+          "IBM Plex Sans Condensed"
+        ]
+      ]
+    },
+    {
+      "name": "FontWeight",
+      "modes": [
+        "Normal"
+      ],
+      "rows": [
+        [
+          "font-weight-Regular",
+          "7bbbc2fb2be34d2f897c76a0b98315ce90c5cba0",
+          400
+        ],
+        [
+          "font-weight-Medium",
+          "b9f67fc261923f22885b96562c9932e3293788a8",
+          580
+        ],
+        [
+          "font-weight-Bold",
+          "4abd366d37b89e433be6af0241a10a22b6dbcdad",
+          700
+        ]
+      ]
+    },
+    {
+      "name": "LineHeight",
+      "modes": [
+        "Normal",
+        "Loose",
+        "Compact",
+        "Large Loose"
+      ],
+      "rows": [
+        [
+          "line-height-body",
+          "c24229af74180789d8ed34a597cc45362b239c0a",
+          20,
+          24,
+          18,
+          28
+        ],
+        [
+          "line-height-body-l",
+          "082ea93adc67757f2dbb27004039cc4d0d06bbac",
+          24,
+          26,
+          20,
+          32
+        ],
+        [
+          "line-height-heading-6",
+          "0f88b4dc3b395e0b439ff4de3b971393ece2c1f8",
+          28,
+          32,
+          24,
+          40
+        ],
+        [
+          "line-height-heading-5",
+          "b30d4d1064beb70989289a05fe23c0a7233cbe4b",
+          34,
+          40,
+          30,
+          48
+        ],
+        [
+          "line-height-heading-4",
+          "d2b7b6a19f78327ea831bbd691ec4158604bc6eb",
+          40,
+          46,
+          34,
+          56
+        ],
+        [
+          "line-height-heading-3",
+          "8d695a34f8fdb2729fbae91fdb78dfe24f8d1b1a",
+          46,
+          52,
+          40,
+          64
+        ],
+        [
+          "line-height-heading-1",
+          "ed94306f8ad4dbb2207735470e4f898b99541573",
+          90,
+          104,
+          78,
+          128
+        ],
+        [
+          "line-height-heading-2",
+          "6c4c3b97f54aa38f1d0181b28052d046439011f3",
+          68,
+          78,
+          58,
+          96
+        ],
+        [
+          "line-height-caption",
+          "865fd8cabddece4d97b8c81eef965c5ab01f4451",
+          18,
+          20,
+          16,
+          24
+        ],
+        [
+          "line-height-body-xl",
+          "127619e15d63ee82b725cbb8641b58921b57043f",
+          26,
+          30,
+          22,
+          36
+        ],
+        [
+          "line-height-tag",
+          "54f2fa126f4615339eaa37854b8079d319f66756",
+          14,
+          16,
+          12,
+          20
+        ]
+      ]
+    }
+  ],
+  "textStyles": [
+    {
+      "name": "tag",
+      "key": "b5a8e12744141dace86fcd59c8f01ee6b1ae0e1d",
+      "font": {
+        "family": "PingFang SC",
+        "style": "Regular"
+      },
+      "size": 10,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 14
+      }
+    },
+    {
+      "name": "caption",
+      "key": "f427d7f8c8f41575f4fccc42905dfd9916d98f08",
+      "font": {
+        "family": "PingFang SC",
+        "style": "Regular"
+      },
+      "size": 12,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 18
+      }
+    },
+    {
+      "name": "caption-B",
+      "key": "3baf79c2fb45a057f3515788688c3c34d709015c",
+      "font": {
+        "family": "PingFang SC",
+        "style": "Semibold"
+      },
+      "size": 12,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 18
+      }
+    },
+    {
+      "name": "caption-U",
+      "key": "7c576081a28ca9887f647b65cac1f60631399393",
+      "font": {
+        "family": "PingFang SC",
+        "style": "Regular"
+      },
+      "size": 12,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 18
+      }
+    },
+    {
+      "name": "caption-B-U",
+      "key": "35d1b72b6fa7c568c987b69742386e3103fc5724",
+      "font": {
+        "family": "PingFang SC",
+        "style": "Semibold"
+      },
+      "size": 12,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 18
+      }
+    },
+    {
+      "name": "body (regular)",
+      "key": "a1f45c98f0136887743b9b6933439849b7bb8a5c",
+      "font": {
+        "family": "PingFang SC",
+        "style": "Regular"
+      },
+      "size": 14,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      }
+    },
+    {
+      "name": "body-B",
+      "key": "c20a1ac00594e355fdd5aafda6c8a5e1ec8f4b20",
+      "font": {
+        "family": "PingFang SC",
+        "style": "Semibold"
+      },
+      "size": 14,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      }
+    },
+    {
+      "name": "body-U",
+      "key": "3853bc3802b235aa4d91dec764cd572a19c63847",
+      "font": {
+        "family": "PingFang SC",
+        "style": "Regular"
+      },
+      "size": 14,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      }
+    },
+    {
+      "name": "body-B-U",
+      "key": "d5c6689eb0c20a9ad880db422517b78c508e457e",
+      "font": {
+        "family": "PingFang SC",
+        "style": "Semibold"
+      },
+      "size": 14,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      }
+    },
+    {
+      "name": "body-l",
+      "key": "3c50918bc3da6be4f99ca1324b281efc45b61c02",
+      "font": {
+        "family": "PingFang SC",
+        "style": "Regular"
+      },
+      "size": 16,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 24
+      }
+    },
+    {
+      "name": "body-l-B",
+      "key": "fd3332ac6f589828a949362e8fd782de2d92e0e7",
+      "font": {
+        "family": "PingFang SC",
+        "style": "Semibold"
+      },
+      "size": 16,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 24
+      }
+    },
+    {
+      "name": "body-xl",
+      "key": "2fc22612822076c8f1d0b2a7a23411aaa09390ff",
+      "font": {
+        "family": "PingFang SC",
+        "style": "Regular"
+      },
+      "size": 18,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 26
+      }
+    },
+    {
+      "name": "heading-6",
+      "key": "4609418146295f00547156233e9a2092b33f9ffe",
+      "font": {
+        "family": "PingFang SC",
+        "style": "Semibold"
+      },
+      "size": 20,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 28
+      }
+    },
+    {
+      "name": "heading-5 (regular)",
+      "key": "bd6160022c6515dd6c491531d033b18165b9b907",
+      "font": {
+        "family": "PingFang SC",
+        "style": "Semibold"
+      },
+      "size": 24,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 34
+      }
+    },
+    {
+      "name": "heading-4",
+      "key": "115c9efd6d25a80a863d286392a093f5eb97f76d",
+      "font": {
+        "family": "PingFang SC",
+        "style": "Semibold"
+      },
+      "size": 28,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 40
+      }
+    },
+    {
+      "name": "heading-3",
+      "key": "3079cc4ab99e25244cbda8757d674f5049c5d1d6",
+      "font": {
+        "family": "PingFang SC",
+        "style": "Semibold"
+      },
+      "size": 32,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 46
+      }
+    },
+    {
+      "name": "heading-2",
+      "key": "73c425bf64c11f6dbca72e86be769f398975d266",
+      "font": {
+        "family": "PingFang SC",
+        "style": "Semibold"
+      },
+      "size": 48,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 68
+      }
+    },
+    {
+      "name": "heading-1",
+      "key": "26631244eb828ced4d1156839b3ab75868916aa6",
+      "font": {
+        "family": "PingFang SC",
+        "style": "Semibold"
+      },
+      "size": 64,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 90
+      }
+    }
+  ],
+  "effectStyles": [
+    {
+      "name": "shadow-s",
+      "key": "93941aed84fe8efb6780308761e85236b78bf0dd",
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "radius": 6,
+          "boundVariables": {},
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 0.07999999821186066
+          },
+          "offset": {
+            "x": 0,
+            "y": 2
+          },
+          "spread": 0,
+          "blendMode": "NORMAL",
+          "showShadowBehindNode": true
+        },
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "radius": 2,
+          "boundVariables": {},
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 0.029999999329447746
+          },
+          "offset": {
+            "x": 0,
+            "y": 1
+          },
+          "spread": 0,
+          "blendMode": "NORMAL",
+          "showShadowBehindNode": true
+        }
+      ]
+    },
+    {
+      "name": "shadow-m",
+      "key": "6ed4ba5e44287522aee7fbdd38424fc62936576e",
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "radius": 20,
+          "boundVariables": {},
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 0.03999999910593033
+          },
+          "offset": {
+            "x": 0,
+            "y": 8
+          },
+          "spread": 0,
+          "blendMode": "NORMAL",
+          "showShadowBehindNode": true
+        },
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "radius": 28,
+          "boundVariables": {},
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 0.019999999552965164
+          },
+          "offset": {
+            "x": 0,
+            "y": 16
+          },
+          "spread": 0,
+          "blendMode": "NORMAL",
+          "showShadowBehindNode": false
+        },
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "radius": 8,
+          "boundVariables": {},
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 0.05000000074505806
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "spread": 0,
+          "blendMode": "NORMAL",
+          "showShadowBehindNode": false
+        }
+      ]
+    },
+    {
+      "name": "shadow-l",
+      "key": "da6f3651b0365731ab3c05d34229e93c703706f0",
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "radius": 20,
+          "boundVariables": {},
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 0.05000000074505806
+          },
+          "offset": {
+            "x": 0,
+            "y": 10
+          },
+          "spread": 0,
+          "blendMode": "NORMAL",
+          "showShadowBehindNode": true
+        },
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "radius": 28,
+          "boundVariables": {},
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 0.03999999910593033
+          },
+          "offset": {
+            "x": 0,
+            "y": 20
+          },
+          "spread": 0,
+          "blendMode": "NORMAL",
+          "showShadowBehindNode": true
+        }
+      ]
+    }
+  ],
+  "gridStyles": [
+    {
+      "name": "layout-desktop-container",
+      "key": "c0ace712996203eb9bda7e8cfbc405958c41634d"
+    },
+    {
+      "name": "layout-desktop-card",
+      "key": "c6d382a99462a126df57b9cfd8235f45df085899"
+    },
+    {
+      "name": "layout-desktop-table",
+      "key": "0fdee687f83c0f5a02dbebaaa3a04e106b9fe6b5"
+    },
+    {
+      "name": "layout-desktop-form",
+      "key": "f4857e326e55af2231ec5f7590a3a8f3f7ab7133"
+    },
+    {
+      "name": "layout-mobile-container",
+      "key": "38a9f8b3cd2a463b84912308fe90e140c008e335"
+    },
+    {
+      "name": "layout-mobile-card",
+      "key": "2e5d6481c959707ebf0239af8ca5fbd60b182ac3"
+    },
+    {
+      "name": "layout-mobile-form",
+      "key": "ae77804e83aa3bd596bc0d86a503c212e5f18323"
+    },
+    {
+      "name": "other/grid-icon-16",
+      "key": "fa54ab556c8407e999258f5c7d93b11a63b2e5fd"
+    },
+    {
+      "name": "other/grid-icon-24",
+      "key": "2fc379daf8b57fa320860d743671b8fffa990e5e"
+    },
+    {
+      "name": "other/layout-desktop-container-l",
+      "key": "458edbbd29a4251087a9733d59ded5f666271f58"
+    },
+    {
+      "name": "other/layout-desktop-card-l",
+      "key": "73b15a449e01c2966010e3f602aa962cc795a85e"
+    },
+    {
+      "name": "other/layout-mobile-container-l",
+      "key": "bf7e4f6fda4917b7822e4c25378ba2092f8884ea"
+    },
+    {
+      "name": "other/layout-mobile-card-l",
+      "key": "e527e8103d96b5a73b5bc049704dd28075a59fcd"
+    }
+  ],
+  "blockedReverseTokenNames": [
+    "Text icon reverse/color-text-icon-reverse-tertiary",
+    "Text icon reverse/color-text-icon-reverse-secondary",
+    "Text icon reverse/color-text-icon-reverse-primary",
+    "Surface reverse/color-surface-reverse-active",
+    "Surface reverse/color-surface-reverse-hover",
+    "Surface reverse/color-surface-reverse-secondary",
+    "Line reverse/color-line-reverse-border-light",
+    "Line reverse/color-line-reverse-border-regular",
+    "Line reverse/color-line-reverse-separator-regular",
+    "Surface reverse/color-surface-reverse-tertiary",
+    "Text icon reverse/color-text-icon-reverse-quaternary",
+    "Line reverse/color-line-reverse-border-dark",
+    "Line reverse/color-line-reverse-separator-dark-",
+    "Surface reverse/color-surface-reverse-primary"
+  ],
+  "dependencyNote": "14 C reverse-color variables depend on 17 B primitives. These variables are blocked until migrated. Remote primitive keys intentionally omitted from usable registry."
+}

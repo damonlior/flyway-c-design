@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flyway C Design"
+  short_description: "依据飞来汇 C 端完整设计规范生成并审查 C 端产品页面"
+  default_prompt: "Use $flyway-c-design to design a compliant Flyway C-end product page."
