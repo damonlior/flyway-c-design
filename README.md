@@ -2,8 +2,6 @@
 
 飞来汇（Flyway）C 端产品设计规范与 AI Design Skills。
 
-本 Skill 复用 Flyway B Design 的治理流程，并将所有 Figma 组件、Variables 与 Styles 锁定到「❖ 飞来汇设计规范 - C端 V1.0」。
-
 本仓库面向飞来汇现有业务中的消费者 C 端页面，统一跨境收付款、换汇、个人账户、银行卡与支付工具、身份认证及交易安全等场景的设计语言、页面结构和 AI 设计执行流程。
 
 ## 仓库内容
